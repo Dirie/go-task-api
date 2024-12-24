@@ -1,7 +1,3 @@
-Sure! Here's a README text for your "go-task-api" project that you can include in your repository. This README provides basic information about the project, its functionality, how to set it up, and how to use it.
-
----
-
 # Go Task API
 
 A simple task management REST API built with Go (Golang). This API allows you to create, read, update, and delete tasks. It demonstrates basic CRUD operations and can serve as a starting point for building more complex backend applications in Go.
@@ -174,15 +170,5 @@ curl http://localhost:8080/tasks
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
 
-Contributions are welcome! Please feel free to open an issue or submit a pull request if you have improvements or bug fixes.
 
----
-
-### Notes:
-
-- Make sure to replace the `https://github.com/Dirie/go-task-api.git` link with the correct repository link if you're forking or cloning.
-- If you don't want to include `models.go` separately, you can simplify the `README` to reflect how the project is organized (you may include all code in `main.go`, for example).
-
-Let me know if you'd like any modifications or more details!
